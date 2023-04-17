@@ -1,0 +1,6 @@
+OTU.1	End of SSU sequence not found; No ITS1 sequence
+OTU.2	End of SSU sequence not found; No ITS1 sequence
+OTU.3	End of SSU sequence not found; Start of 5.8S sequence not found
+OTU.4	End of SSU sequence not found; No ITS1 sequence
+OTU.6	End of SSU sequence not found; Start of 5.8S sequence not found
+OTU.7	End of SSU sequence not found; Start of 5.8S sequence not found

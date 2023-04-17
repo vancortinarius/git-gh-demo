@@ -1,0 +1,2 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	trim-R1	/nfs1/BPP/Spatafora_Lab/gerversk/projects/fun-gi/scratch/error/trim-R1_fastqc.zip

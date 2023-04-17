@@ -1,0 +1,172 @@
+This is cutadapt 4.2 with Python 3.10.8
+Command line parameters: -e 0.1 --no-indels -j 32 --discard-untrimmed -g ^file:scratch/fwd-adapters.fa -o scratch/trim1/P01-01-H-{name}-R1.fq.gz -p scratch/trim1/P01-01-H-{name}-R2.fq.gz 01-demultiplex/P01-01-H-R1.fq.gz 01-demultiplex/P01-01-H-R2.fq.gz
+Processing paired-end reads on 32 cores ...
+Finished in 0.956 s (73.750 µs/read; 0.81 M reads/minute).
+
+=== Summary ===
+
+Total read pairs processed:             12,967
+  Read 1 with adapter:                   3,289 (25.4%)
+Pairs written (passing filters):         3,289 (25.4%)
+
+Total basepairs processed:     6,509,434 bp
+  Read 1:     3,254,717 bp
+  Read 2:     3,254,717 bp
+Total written (filtered):      1,555,170 bp (23.9%)
+  Read 1:       729,631 bp
+  Read 2:       825,539 bp
+
+=== First read: Adapter n01_fun_fwd ===
+
+Sequence: NCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 26; Trimmed: 0 times
+
+=== First read: Adapter n02_fun_fwd ===
+
+Sequence: NNCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 27; Trimmed: 6 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+27	6	0.0	2	3 2 1
+
+
+=== First read: Adapter n03_fun_fwd ===
+
+Sequence: NNNCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 28; Trimmed: 812 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+28	812	0.0	2	756 52 4
+
+
+=== First read: Adapter n04_fun_fwd ===
+
+Sequence: NNNNCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 29; Trimmed: 527 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+29	527	0.0	2	497 24 6
+
+
+=== First read: Adapter n05_fun_fwd ===
+
+Sequence: NNNNNCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 30; Trimmed: 567 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+30	567	0.0	2	321 201 45
+
+
+=== First read: Adapter n06_fun_fwd ===
+
+Sequence: NNNNNNCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 31; Trimmed: 215 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+31	215	0.0	2	178 34 3
+
+
+=== First read: Adapter n07_fun_fwd ===
+
+Sequence: NNNNNNNCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 32; Trimmed: 1 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+32	1	0.0	2	0 0 1
+
+
+=== First read: Adapter n08_fun_fwd ===
+
+Sequence: NNNNNNNNCCTCCGCTTATTGATATGCTTAART; Type: anchored 5'; Length: 33; Trimmed: 0 times
+
+=== First read: Adapter n04_gi_fwd ===
+
+Sequence: NNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 26; Trimmed: 1 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+26	1	0.0	2	1
+
+
+=== First read: Adapter n05_gi_fwd ===
+
+Sequence: NNNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 27; Trimmed: 9 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+27	9	0.0	2	8 1
+
+
+=== First read: Adapter n06_gi_fwd ===
+
+Sequence: NNNNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 28; Trimmed: 404 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+28	404	0.0	2	379 25
+
+
+=== First read: Adapter n07_gi_fwd ===
+
+Sequence: NNNNNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 29; Trimmed: 204 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+29	204	0.0	2	156 47 1
+
+
+=== First read: Adapter n08_gi_fwd ===
+
+Sequence: NNNNNNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 30; Trimmed: 311 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+30	311	0.0	2	207 97 7
+
+
+=== First read: Adapter n09_gi_fwd ===
+
+Sequence: NNNNNNNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 31; Trimmed: 231 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+31	231	0.0	2	124 89 18
+
+
+=== First read: Adapter n10_gi_fwd ===
+
+Sequence: NNNNNNNNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 32; Trimmed: 1 times
+
+No. of allowed errors: 2
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+32	1	0.0	2	0 1
+
+
+=== First read: Adapter n11_gi_fwd ===
+
+Sequence: NNNNNNNNNNNCGTGTTCTGGAATATCTACCTC; Type: anchored 5'; Length: 33; Trimmed: 0 times

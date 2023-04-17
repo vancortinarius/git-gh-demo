@@ -1,0 +1,88 @@
+This is cutadapt 4.2 with Python 3.10.8
+Command line parameters: -e 0.1 --no-indels -j 32 --discard-untrimmed -g ^file:scratch/rev-adapters.fa -o scratch/trim2/P01-02-D-n09_gi_fwd-{name}-R2.fq.gz -p scratch/trim2/P01-02-D-n09_gi_fwd-{name}-R1.fq.gz scratch/trim1/P01-02-D-n09_gi_fwd-R2.fq.gz scratch/trim1/P01-02-D-n09_gi_fwd-R1.fq.gz
+Processing paired-end reads on 32 cores ...
+Finished in 0.288 s (9282.220 µs/read; 0.01 M reads/minute).
+
+=== Summary ===
+
+Total read pairs processed:                 31
+  Read 1 with adapter:                       1 (3.2%)
+Pairs written (passing filters):             1 (3.2%)
+
+Total basepairs processed:        14,601 bp
+  Read 1:         7,781 bp
+  Read 2:         6,820 bp
+Total written (filtered):            444 bp (3.0%)
+  Read 1:           224 bp
+  Read 2:           220 bp
+
+=== First read: Adapter n01_fun_rev ===
+
+Sequence: NAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 22; Trimmed: 0 times
+
+=== First read: Adapter n02_fun_rev ===
+
+Sequence: NNAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 23; Trimmed: 0 times
+
+=== First read: Adapter n03_fun_rev ===
+
+Sequence: NNNAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 24; Trimmed: 0 times
+
+=== First read: Adapter n04_fun_rev ===
+
+Sequence: NNNNAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 25; Trimmed: 0 times
+
+=== First read: Adapter n05_fun_rev ===
+
+Sequence: NNNNNAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 26; Trimmed: 0 times
+
+=== First read: Adapter n06_fun_rev ===
+
+Sequence: NNNNNNAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 27; Trimmed: 0 times
+
+=== First read: Adapter n07_fun_rev ===
+
+Sequence: NNNNNNNAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 28; Trimmed: 0 times
+
+=== First read: Adapter n08_fun_rev ===
+
+Sequence: NNNNNNNNAACTTTYRRCAAYGGATCWCT; Type: anchored 5'; Length: 29; Trimmed: 0 times
+
+=== First read: Adapter n04_gi_rev ===
+
+Sequence: NNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 22; Trimmed: 0 times
+
+=== First read: Adapter n05_gi_rev ===
+
+Sequence: NNNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 23; Trimmed: 0 times
+
+=== First read: Adapter n06_gi_rev ===
+
+Sequence: NNNNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 24; Trimmed: 0 times
+
+=== First read: Adapter n07_gi_rev ===
+
+Sequence: NNNNNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 25; Trimmed: 0 times
+
+=== First read: Adapter n08_gi_rev ===
+
+Sequence: NNNNNNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 26; Trimmed: 0 times
+
+=== First read: Adapter n09_gi_rev ===
+
+Sequence: NNNNNNNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 27; Trimmed: 1 times
+
+No. of allowed errors: 1
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+27	1	0.0	1	1
+
+
+=== First read: Adapter n10_gi_rev ===
+
+Sequence: NNNNNNNNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 28; Trimmed: 0 times
+
+=== First read: Adapter n11_gi_rev ===
+
+Sequence: NNNNNNNNNNNATGCCTGAGCACAAACAG; Type: anchored 5'; Length: 29; Trimmed: 0 times

@@ -1,0 +1,2 @@
+primers total correct del.correct in.correct deletions insertions
+Gi 15477 14283 3625 2878 203 17

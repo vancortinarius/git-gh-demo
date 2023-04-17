@@ -1,0 +1,129 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content	per_tile_sequence_quality
+P01-01-A-n01_fun_fwd-R1	P01-01-A-n01_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	225.0	60.0	100.0	225.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-A-n02_fun_fwd-R1	P01-01-A-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	224.0	59.0	100.0	224.0	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass	
+P01-01-A-n03_fun_fwd-R1	P01-01-A-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	412.0	0.0	223.0	59.0	16.74757281553398	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n04_fun_fwd-R1	P01-01-A-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3824.0	0.0	222.0	60.0	4.0533472803347275	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n04_gi_fwd-R1	P01-01-A-n04_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	225.0	46.0	66.66666666666666	225.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-A-n05_fun_fwd-R1	P01-01-A-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2456.0	0.0	221.0	60.0	6.392508143322476	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n05_gi_fwd-R1	P01-01-A-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	38.0	0.0	224.0	45.0	26.31578947368421	224.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	warn
+P01-01-A-n06_fun_fwd-R1	P01-01-A-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2369.0	0.0	220.0	60.0	9.159983115238497	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n06_gi_fwd-R1	P01-01-A-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	978.0	0.0	223.0	47.0	9.918200408997956	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n07_fun_fwd-R1	P01-01-A-n07_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	219.0	60.0	100.0	219.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-A-n07_gi_fwd-R1	P01-01-A-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	963.0	0.0	222.0	46.0	9.345794392523365	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n08_fun_fwd-R1	P01-01-A-n08_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	218.0	61.0	100.0	218.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-A-n08_gi_fwd-R1	P01-01-A-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1155.0	0.0	221.0	46.0	12.467532467532468	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n09_gi_fwd-R1	P01-01-A-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	464.0	0.0	220.0	46.0	21.982758620689655	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-A-n10_gi_fwd-R1	P01-01-A-n10_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	219.0	47.0	100.0	219.0	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass	
+P01-01-B-n02_fun_fwd-R1	P01-01-B-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	224.0	60.0	66.66666666666666	224.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-B-n03_fun_fwd-R1	P01-01-B-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	123.0	0.0	223.0	59.0	26.82926829268293	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n04_fun_fwd-R1	P01-01-B-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2212.0	0.0	222.0	60.0	5.69620253164557	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n05_fun_fwd-R1	P01-01-B-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	585.0	0.0	221.0	59.0	14.188034188034187	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n05_gi_fwd-R1	P01-01-B-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	30.0	0.0	224.0	46.0	23.333333333333332	224.0	pass	pass	pass	fail	pass	pass	pass	fail	fail	pass	pass
+P01-01-B-n06_fun_fwd-R1	P01-01-B-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	4215.0	0.0	220.0	60.0	6.192170818505338	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n06_gi_fwd-R1	P01-01-B-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	681.0	0.0	223.0	47.0	11.600587371512482	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n07_fun_fwd-R1	P01-01-B-n07_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	219.0	60.0	100.0	219.0	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass	
+P01-01-B-n07_gi_fwd-R1	P01-01-B-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	938.0	0.0	222.0	46.0	9.701492537313433	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n08_gi_fwd-R1	P01-01-B-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	120.0	0.0	221.0	45.0	22.5	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n09_gi_fwd-R1	P01-01-B-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	660.0	0.0	220.0	47.0	19.848484848484848	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-B-n10_gi_fwd-R1	P01-01-B-n10_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	4.0	0.0	219.0	47.0	75.0	219.0	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass	
+P01-01-C-n01_fun_fwd-R1	P01-01-C-n01_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	225.0	59.0	50.0	225.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-C-n02_fun_fwd-R1	P01-01-C-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	6.0	0.0	224.0	60.0	66.66666666666666	224.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-C-n03_fun_fwd-R1	P01-01-C-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2150.0	0.0	223.0	59.0	9.395348837209303	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-C-n04_fun_fwd-R1	P01-01-C-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3738.0	0.0	222.0	60.0	4.788657035848047	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-C-n04_gi_fwd-R1	P01-01-C-n04_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	225.0	47.0	100.0	225.0	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass	
+P01-01-C-n05_fun_fwd-R1	P01-01-C-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3250.0	0.0	221.0	60.0	6.0	221.0	pass	pass	pass	fail	pass	pass	pass	fail	fail	pass	pass
+P01-01-C-n05_gi_fwd-R1	P01-01-C-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	36.0	0.0	224.0	46.0	30.555555555555557	224.0	pass	pass	pass	fail	pass	pass	pass	fail	fail	pass	pass
+P01-01-C-n06_fun_fwd-R1	P01-01-C-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	356.0	0.0	220.0	59.0	15.730337078651685	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-C-n06_gi_fwd-R1	P01-01-C-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	773.0	0.0	223.0	47.0	9.831824062095732	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-C-n07_fun_fwd-R1	P01-01-C-n07_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	219.0	61.0	100.0	219.0	pass	pass	pass	fail	fail	pass	pass	pass	fail	pass	
+P01-01-C-n07_gi_fwd-R1	P01-01-C-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	236.0	0.0	222.0	46.0	18.64406779661017	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-C-n08_gi_fwd-R1	P01-01-C-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	920.0	0.0	221.0	46.0	14.782608695652174	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-C-n09_gi_fwd-R1	P01-01-C-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	357.0	0.0	220.0	47.0	21.288515406162464	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-C-n10_gi_fwd-R1	P01-01-C-n10_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	219.0	47.0	100.0	219.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-D-n01_fun_fwd-R1	P01-01-D-n01_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	225.0	60.0	100.0	225.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-D-n02_fun_fwd-R1	P01-01-D-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	7.0	0.0	224.0	60.0	57.14285714285714	224.0	pass	pass	pass	fail	pass	pass	pass	warn	fail	pass	
+P01-01-D-n03_fun_fwd-R1	P01-01-D-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1797.0	0.0	223.0	59.0	10.9070673344463	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-D-n04_fun_fwd-R1	P01-01-D-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	7221.0	0.0	222.0	60.0	3.199002908184462	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-D-n04_gi_fwd-R1	P01-01-D-n04_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	225.0	47.0	100.0	225.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-D-n05_fun_fwd-R1	P01-01-D-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2768.0	0.0	221.0	60.0	6.322254335260117	221.0	pass	pass	pass	fail	pass	pass	pass	fail	fail	pass	pass
+P01-01-D-n05_gi_fwd-R1	P01-01-D-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	26.0	0.0	224.0	46.0	34.61538461538461	224.0	pass	pass	pass	fail	warn	pass	pass	fail	fail	pass	pass
+P01-01-D-n06_fun_fwd-R1	P01-01-D-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	199.0	0.0	220.0	58.0	22.110552763819097	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	warn	pass
+P01-01-D-n06_gi_fwd-R1	P01-01-D-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	687.0	0.0	223.0	47.0	10.480349344978166	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-D-n07_gi_fwd-R1	P01-01-D-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	504.0	0.0	222.0	46.0	14.087301587301587	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-D-n08_gi_fwd-R1	P01-01-D-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	732.0	0.0	221.0	45.0	14.754098360655737	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-D-n09_gi_fwd-R1	P01-01-D-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	83.0	0.0	220.0	46.0	39.75903614457831	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-D-n10_gi_fwd-R1	P01-01-D-n10_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	219.0	46.0	100.0	219.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-E-n01_fun_fwd-R1	P01-01-E-n01_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	225.0	60.0	100.0	225.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-E-n02_fun_fwd-R1	P01-01-E-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	10.0	0.0	224.0	60.0	40.0	224.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-E-n03_fun_fwd-R1	P01-01-E-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2854.0	0.0	223.0	59.0	8.33917309039944	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-E-n04_fun_fwd-R1	P01-01-E-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	5466.0	0.0	222.0	60.0	3.787047200878156	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-E-n04_gi_fwd-R1	P01-01-E-n04_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	225.0	47.0	50.0	225.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-E-n05_fun_fwd-R1	P01-01-E-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	4462.0	0.0	221.0	60.0	4.930524428507396	221.0	pass	pass	pass	fail	pass	pass	pass	fail	fail	pass	pass
+P01-01-E-n05_gi_fwd-R1	P01-01-E-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	14.0	0.0	224.0	46.0	28.57142857142857	224.0	pass	pass	pass	fail	pass	pass	pass	fail	fail	pass	pass
+P01-01-E-n06_fun_fwd-R1	P01-01-E-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	382.0	0.0	220.0	59.0	19.10994764397906	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-E-n06_gi_fwd-R1	P01-01-E-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	302.0	0.0	223.0	47.0	14.56953642384106	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-E-n07_gi_fwd-R1	P01-01-E-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	658.0	0.0	222.0	46.0	10.486322188449847	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-E-n08_gi_fwd-R1	P01-01-E-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	565.0	0.0	221.0	46.0	16.63716814159292	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-E-n09_gi_fwd-R1	P01-01-E-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	796.0	0.0	220.0	46.0	17.839195979899497	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	warn	pass
+P01-01-E-n10_gi_fwd-R1	P01-01-E-n10_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	219.0	47.0	66.66666666666666	219.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-F-n01_fun_fwd-R1	P01-01-F-n01_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	225.0	53.0	100.0	225.0	pass	pass	warn	fail	fail	pass	pass	pass	fail	pass	
+P01-01-F-n02_fun_fwd-R1	P01-01-F-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	5.0	0.0	224.0	60.0	60.0	224.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-F-n03_fun_fwd-R1	P01-01-F-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1083.0	0.0	223.0	59.0	11.357340720221606	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n04_fun_fwd-R1	P01-01-F-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	13031.0	0.0	222.0	60.0	2.4326605786202133	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n04_gi_fwd-R1	P01-01-F-n04_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	225.0	46.0	50.0	225.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-F-n05_fun_fwd-R1	P01-01-F-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1878.0	0.0	221.0	60.0	7.933972310969116	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n05_gi_fwd-R1	P01-01-F-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	25.0	0.0	224.0	46.0	20.0	224.0	pass	pass	pass	fail	warn	pass	pass	fail	fail	pass	pass
+P01-01-F-n06_fun_fwd-R1	P01-01-F-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2799.0	0.0	220.0	60.0	7.859949982136477	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n06_gi_fwd-R1	P01-01-F-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	507.0	0.0	223.0	47.0	12.42603550295858	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n07_fun_fwd-R1	P01-01-F-n07_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	219.0	61.0	66.66666666666666	219.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-F-n07_gi_fwd-R1	P01-01-F-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1408.0	0.0	222.0	46.0	8.167613636363637	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n08_gi_fwd-R1	P01-01-F-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1330.0	0.0	221.0	46.0	12.781954887218044	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n09_gi_fwd-R1	P01-01-F-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	750.0	0.0	220.0	46.0	19.333333333333332	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-F-n10_gi_fwd-R1	P01-01-F-n10_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	219.0	47.0	100.0	219.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-G-n02_fun_fwd-R1	P01-01-G-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	224.0	60.0	66.66666666666666	224.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-G-n03_fun_fwd-R1	P01-01-G-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	813.0	0.0	223.0	59.0	12.054120541205412	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-G-n04_fun_fwd-R1	P01-01-G-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	446.0	0.0	222.0	60.0	11.659192825112108	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-G-n04_gi_fwd-R1	P01-01-G-n04_gi_fwd-R1.fq.gz	Conventional base calls	Illumina 1.5	1.0	0.0	225.0	47.0	100.0	225.0	pass	pass	fail	fail	pass	pass	pass	pass	fail	pass	
+P01-01-G-n05_fun_fwd-R1	P01-01-G-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	648.0	0.0	221.0	59.0	16.358024691358025	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-G-n05_gi_fwd-R1	P01-01-G-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	14.0	0.0	224.0	45.0	57.14285714285714	224.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	pass
+P01-01-G-n06_fun_fwd-R1	P01-01-G-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	308.0	0.0	220.0	58.0	18.83116883116883	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	warn	pass
+P01-01-G-n06_gi_fwd-R1	P01-01-G-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	336.0	0.0	223.0	46.0	15.773809523809524	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-G-n07_gi_fwd-R1	P01-01-G-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	53.0	0.0	222.0	43.0	30.18867924528302	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-G-n08_gi_fwd-R1	P01-01-G-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	328.0	0.0	221.0	44.0	17.073170731707318	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	warn	pass
+P01-01-G-n09_gi_fwd-R1	P01-01-G-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	122.0	0.0	220.0	43.0	42.62295081967213	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	fail	pass
+P01-01-H-n02_fun_fwd-R1	P01-01-H-n02_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	6.0	0.0	224.0	60.0	50.0	224.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-H-n03_fun_fwd-R1	P01-01-H-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	812.0	0.0	223.0	59.0	15.270935960591133	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-H-n04_fun_fwd-R1	P01-01-H-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	527.0	0.0	222.0	60.0	12.7134724857685	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-H-n04_gi_fwd-R1	P01-01-H-n04_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	225.0	47.0	100.0	225.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-H-n05_fun_fwd-R1	P01-01-H-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	567.0	0.0	221.0	59.0	14.638447971781304	221.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-H-n05_gi_fwd-R1	P01-01-H-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	9.0	0.0	224.0	44.0	66.66666666666666	224.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-01-H-n06_fun_fwd-R1	P01-01-H-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	215.0	0.0	220.0	54.0	25.581395348837212	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	fail	pass
+P01-01-H-n06_gi_fwd-R1	P01-01-H-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	404.0	0.0	223.0	46.0	13.861386138613863	223.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-H-n07_fun_fwd-R1	P01-01-H-n07_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	219.0	61.0	100.0	219.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-01-H-n07_gi_fwd-R1	P01-01-H-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	204.0	0.0	222.0	45.0	19.607843137254903	222.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass	pass
+P01-01-H-n08_gi_fwd-R1	P01-01-H-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	311.0	0.0	221.0	42.0	24.115755627009648	221.0	pass	warn	warn	fail	fail	pass	pass	fail	fail	fail	pass
+P01-01-H-n09_gi_fwd-R1	P01-01-H-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	231.0	0.0	220.0	43.0	27.27272727272727	220.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	fail	pass
+P01-01-H-n10_gi_fwd-R1	P01-01-H-n10_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	219.0	37.0	100.0	219.0	pass	pass	warn	fail	pass	pass	pass	pass	fail	fail	
+P01-02-A-n03_fun_fwd-R1	P01-02-A-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	10.0	0.0	223.0	40.0	100.0	223.0	pass	pass	warn	fail	fail	pass	pass	pass	fail	fail	pass
+P01-02-A-n04_fun_fwd-R1	P01-02-A-n04_fun_fwd-R1.fq.gz	Conventional base calls	Illumina 1.3	1.0	0.0	222.0	60.0	100.0	222.0	pass	pass	fail	fail	pass	pass	pass	pass	fail	pass	
+P01-02-A-n05_fun_fwd-R1	P01-02-A-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	221.0	60.0	100.0	221.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-02-A-n05_gi_fwd-R1	P01-02-A-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	224.0	31.0	100.0	224.0	pass	pass	warn	fail	pass	pass	pass	pass	fail	pass	
+P01-02-A-n06_gi_fwd-R1	P01-02-A-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	74.0	0.0	223.0	37.0	25.675675675675674	223.0	pass	pass	warn	fail	fail	pass	pass	fail	fail	pass	pass
+P01-02-A-n08_gi_fwd-R1	P01-02-A-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	2.0	0.0	221.0	51.0	100.0	221.0	pass	pass	warn	fail	fail	pass	pass	pass	fail	pass	
+P01-02-B-n04_fun_fwd-R1	P01-02-B-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	222.0	54.0	100.0	222.0	pass	pass	warn	fail	fail	pass	pass	pass	fail	fail	
+P01-02-B-n05_fun_fwd-R1	P01-02-B-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	3.0	0.0	221.0	60.0	66.66666666666666	221.0	pass	pass	pass	fail	fail	pass	pass	warn	fail	pass	
+P01-02-B-n05_gi_fwd-R1	P01-02-B-n05_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	224.0	48.0	100.0	224.0	pass	pass	warn	fail	pass	pass	pass	pass	fail	pass	
+P01-02-B-n06_gi_fwd-R1	P01-02-B-n06_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	5.0	0.0	223.0	36.0	80.0	223.0	pass	pass	fail	fail	fail	pass	pass	pass	fail	pass	
+P01-02-B-n07_gi_fwd-R1	P01-02-B-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	22.0	0.0	222.0	39.0	31.818181818181817	222.0	pass	pass	warn	fail	fail	pass	pass	fail	fail	pass	warn
+P01-02-C-n03_fun_fwd-R1	P01-02-C-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	223.0	60.0	100.0	223.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-02-C-n04_fun_fwd-R1	P01-02-C-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	222.0	60.0	100.0	222.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-02-C-n05_fun_fwd-R1	P01-02-C-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	11.0	0.0	221.0	38.0	72.72727272727273	221.0	pass	pass	warn	fail	fail	pass	pass	pass	fail	fail	pass
+P01-02-C-n07_gi_fwd-R1	P01-02-C-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	222.0	36.0	100.0	222.0	pass	pass	warn	fail	pass	pass	pass	pass	fail	pass	
+P01-02-C-n08_gi_fwd-R1	P01-02-C-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	155.0	0.0	221.0	36.0	26.451612903225808	221.0	pass	fail	warn	fail	fail	pass	pass	fail	fail	fail	pass
+P01-02-D-n03_fun_fwd-R1	P01-02-D-n03_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	223.0	59.0	100.0	223.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-02-D-n04_fun_fwd-R1	P01-02-D-n04_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	222.0	60.0	100.0	222.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-02-D-n05_fun_fwd-R1	P01-02-D-n05_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	221.0	41.0	100.0	221.0	pass	pass	warn	fail	pass	pass	pass	pass	fail	pass	
+P01-02-D-n06_fun_fwd-R1	P01-02-D-n06_fun_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	11.0	0.0	220.0	39.0	81.81818181818183	220.0	pass	pass	warn	fail	fail	pass	pass	pass	fail	fail	pass
+P01-02-D-n07_gi_fwd-R1	P01-02-D-n07_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	222.0	46.0	100.0	222.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-02-D-n08_gi_fwd-R1	P01-02-D-n08_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1.0	0.0	221.0	47.0	100.0	221.0	pass	pass	pass	fail	pass	pass	pass	pass	fail	pass	
+P01-02-D-n09_gi_fwd-R1	P01-02-D-n09_gi_fwd-R1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	31.0	0.0	220.0	36.0	67.74193548387096	220.0	pass	pass	warn	fail	fail	pass	pass	warn	fail	fail	pass

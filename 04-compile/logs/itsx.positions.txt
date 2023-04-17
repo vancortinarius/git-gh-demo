@@ -1,0 +1,6 @@
+OTU.1	309 bp.	SSU: Not found	ITS1: Not found	5.8S: 1-136	ITS2: 137-275	LSU: 276-309	
+OTU.2	316 bp.	SSU: Not found	ITS1: Not found	5.8S: 1-136	ITS2: 137-282	LSU: 283-316	
+OTU.3	309 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 137-275	LSU: 276-309	Broken or partial sequence, only partial 5.8S! 
+OTU.4	309 bp.	SSU: Not found	ITS1: Not found	5.8S: 1-136	ITS2: 137-275	LSU: 276-309	
+OTU.6	309 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 137-275	LSU: 276-309	Broken or partial sequence, only partial 5.8S! 
+OTU.7	309 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 137-275	LSU: 276-309	Broken or partial sequence, only partial 5.8S! 

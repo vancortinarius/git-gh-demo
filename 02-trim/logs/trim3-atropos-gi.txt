@@ -1,0 +1,58 @@
+2023-01-27 12:24:38,204 INFO: This is Atropos 1.1.31 with Python 3.10.8
+2023-01-27 12:24:38,211 INFO: Trimming 2 adapters with at most 10.0% errors in paired-end mode ...
+2023-01-27 12:24:38,249 INFO: Starting 31 worker processes
+2023-01-27 12:24:38,325 INFO: Starting 1 worker processes
+=======
+Atropos
+=======
+
+Atropos version: 1.1.31
+Python version: 3.10.8
+Command line parameters: trim -e 0.1 --aligner insert --insert-match-error-rate 0.2 -T 32 -a CTGTTTGTGCTCAGGCAT -A GAGGTAGATATTCCAGAACACG -o 02-trim/P01-01-C-n07_gi_fwd-n06_gi_rev-rc-R1.fq.gz -p 02-trim/P01-01-C-n07_gi_fwd-n06_gi_rev-rc-R2.fq.gz -pe1 scratch/trim2/P01-01-C-n07_gi_fwd-n06_gi_rev-R1.fq.gz -pe2 scratch/trim2/P01-01-C-n07_gi_fwd-n06_gi_rev-R2.fq.gz
+
+Sample ID: P01-01-C-n07_gi_fwd-n06_gi_rev-R
+Input format: FASTQ, Paired, w/ Qualities
+Input files:
+  /nfs1/BPP/Spatafora_Lab/gerversk/projects/fun-gi/scratch/trim2/P01-01-C-n07_gi_fwd-n06_gi_rev-R1.fq.gz
+  /nfs1/BPP/Spatafora_Lab/gerversk/projects/fun-gi/scratch/trim2/P01-01-C-n07_gi_fwd-n06_gi_rev-R2.fq.gz
+
+Start time: 2023-01-27T12:24:38.207855
+Wallclock time: 0.11 s (57120 us/read; 0.00 M reads/minute)
+CPU time (main process): 0.11 s
+
+--------
+Trimming
+--------
+
+Pairs                               records fraction
+----------------------------------- ------- --------
+Total read pairs processed:            2
+  Read 1 with adapter:                 0    0
+  Read 2 with adapter:                 0    0
+Pairs written (passing filters):       2 100.0%
+
+Base pairs                            bp fraction
+----------------------------------- ---- --------
+Total bp processed:                  898
+  Read 1:                            444
+  Read 2:                            454
+Total bp written (filtered):         898 100.0%
+  Read 1:                            444 100.0%
+  Read 2:                            454 100.0%
+
+---------------------
+First read: Adapter 1
+---------------------
+
+Sequence           Type       Length Trimmed (x)
+------------------ ---------- ------ -----------
+CTGTTTGTGCTCAGGCAT regular 3'     18           0
+
+----------------------
+Second read: Adapter 2
+----------------------
+
+Sequence               Type       Length Trimmed (x)
+---------------------- ---------- ------ -----------
+GAGGTAGATATTCCAGAACACG regular 3'     22           0
+

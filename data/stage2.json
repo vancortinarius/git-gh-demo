@@ -1,0 +1,46 @@
+{
+    "input": [
+        "Undetermined_S0_R1_001.fastq.gz",
+        "Undetermined_S0_R2_001.fastq.gz",
+        "Undetermined_S0_I1_001.fastq.gz",
+        "Undetermined_S0_I2_001.fastq.gz"
+    ],
+    "template": {
+        "transform": { "token": [ "0::", "1::" ] }
+    },
+    "sample": {
+        "transform": { "token": [ "2::8", "3::8" ] },
+        "codec": {
+            "@P01-01-A": {"barcode": [ "AGAGACAC" , "CTTGGTAG" ], "output": [ "P01-01-A-R1.fq.gz" , "P01-01-A-R2.fq.gz" ] },
+            "@P01-01-B": {"barcode": [ "AGCAAGGT" , "CTTGGTAG" ], "output": [ "P01-01-B-R1.fq.gz" , "P01-01-B-R2.fq.gz" ] },
+            "@P01-01-C": {"barcode": [ "CTTGCTTG" , "CTTGGTAG" ], "output": [ "P01-01-C-R1.fq.gz" , "P01-01-C-R2.fq.gz" ] },
+            "@P01-01-D": {"barcode": [ "GGTAGCAA" , "CTTGGTAG" ], "output": [ "P01-01-D-R1.fq.gz" , "P01-01-D-R2.fq.gz" ] },
+            "@P01-01-E": {"barcode": [ "AGAGACAC" , "GTCACAGT" ], "output": [ "P01-01-E-R1.fq.gz" , "P01-01-E-R2.fq.gz" ] },
+            "@P01-01-F": {"barcode": [ "AGCAAGGT" , "GTCACAGT" ], "output": [ "P01-01-F-R1.fq.gz" , "P01-01-F-R2.fq.gz" ] },
+            "@P01-01-G": {"barcode": [ "CTTGCTTG" , "GTCACAGT" ], "output": [ "P01-01-G-R1.fq.gz" , "P01-01-G-R2.fq.gz" ] },
+            "@P01-01-H": {"barcode": [ "GGTAGCAA" , "GTCACAGT" ], "output": [ "P01-01-H-R1.fq.gz" , "P01-01-H-R2.fq.gz" ] },
+            "@P01-02-A": {"barcode": [ "TCTCTCTC" , "CTTGGTAG" ], "output": [ "P01-02-A-R1.fq.gz" , "P01-02-A-R2.fq.gz" ] },
+            "@P01-02-B": {"barcode": [ "CGAACGAA" , "CTTGGTAG" ], "output": [ "P01-02-B-R1.fq.gz" , "P01-02-B-R2.fq.gz" ] },
+            "@P01-02-C": {"barcode": [ "CACAGTCA" , "CTTGGTAG" ], "output": [ "P01-02-C-R1.fq.gz" , "P01-02-C-R2.fq.gz" ] },
+            "@P01-02-D": {"barcode": [ "AGGTCTAC" , "CTTGGTAG" ], "output": [ "P01-02-D-R1.fq.gz" , "P01-02-D-R2.fq.gz" ] },
+            "@LISTON01": {"barcode": [ "TCTCTCTC" , "GTCACAGT" ], "output": [ "LISTON01-R1.fq.gz" , "LISTON01-R2.fq.gz" ] },
+            "@LISTON02": {"barcode": [ "CGAACGAA" , "GTCACAGT" ], "output": [ "LISTON02-R1.fq.gz" , "LISTON02-R2.fq.gz" ] },
+            "@LISTON03": {"barcode": [ "CACAGTCA" , "GTCACAGT" ], "output": [ "LISTON03-R1.fq.gz" , "LISTON03-R2.fq.gz" ] },
+            "@LISTON04": {"barcode": [ "AGGTCTAC" , "GTCACAGT" ], "output": [ "LISTON04-R1.fq.gz" , "LISTON04-R2.fq.gz" ] },
+            "@LISTON05": {"barcode": [ "GTACTGGT" , "CTTGGTAG" ], "output": [ "LISTON05-R1.fq.gz" , "LISTON05-R2.fq.gz" ] },
+            "@LISTON06": {"barcode": [ "TGTCGACA" , "CTTGGTAG" ], "output": [ "LISTON06-R1.fq.gz" , "LISTON06-R2.fq.gz" ] },
+            "@COYLE001": {"barcode": [ "TAAGGCGA" , "CTCTCTAT" ], "output": [ "COYLE001-R1.fq.gz" , "COYLE001-R2.fq.gz" ] },
+            "@COYLE002": {"barcode": [ "CGTACTAG" , "CTCTCTAT" ], "output": [ "COYLE002-R1.fq.gz" , "COYLE002-R2.fq.gz" ] },
+            "@COYLE003": {"barcode": [ "AGGCAGAA" , "CTCTCTAT" ], "output": [ "COYLE003-R1.fq.gz" , "COYLE003-R2.fq.gz" ] },
+            "@COYLE004": {"barcode": [ "TCCTGAGC" , "CTCTCTAT" ], "output": [ "COYLE004-R1.fq.gz" , "COYLE004-R2.fq.gz" ] },
+            "@COYLE005": {"barcode": [ "GGACTCCT" , "CTCTCTAT" ], "output": [ "COYLE005-R1.fq.gz" , "COYLE005-R2.fq.gz" ] },
+            "@COYLE006": {"barcode": [ "TAGGCATG" , "CTCTCTAT" ], "output": [ "COYLE006-R1.fq.gz" , "COYLE006-R2.fq.gz" ] },
+            "@COYLE007": {"barcode": [ "CTCTCTAC" , "CTCTCTAT" ], "output": [ "COYLE007-R1.fq.gz" , "COYLE007-R2.fq.gz" ] },
+            "@COYLE008": {"barcode": [ "CGAGGCTG" , "CTCTCTAT" ], "output": [ "COYLE008-R1.fq.gz" , "COYLE008-R2.fq.gz" ] }
+        },
+        "algorithm": "pamld",
+        "noise": 0.1,
+        "confidence threshold": 0.995,
+        "undetermined": { "output": [ "undetermined-R1.fq.gz", "undetermined-R2.fq.gz" ] }
+    }
+}

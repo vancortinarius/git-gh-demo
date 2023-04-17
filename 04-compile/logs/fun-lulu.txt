@@ -1,0 +1,44 @@
+
+####processing: fun_OTU.1 #####
+---hits: fun_OTU.3 
+---hits: fun_OTU.4 
+---hits: fun_OTU.5
+---potential parent: 
+No parent found!
+
+####processing: fun_OTU.3 #####
+---hits: fun_OTU.1 
+---hits: fun_OTU.4 
+---hits: fun_OTU.5
+---potential parent: fun_OTU.1
+------checking: fun_OTU.1
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 32.8 which is OK!
+SETTING fun_OTU.3 to be an ERROR of fun_OTU.1
+
+####processing: fun_OTU.2 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: fun_OTU.4 #####
+---hits: fun_OTU.1 
+---hits: fun_OTU.3
+---potential parent: fun_OTU.1 
+---potential parent: fun_OTU.3
+------checking: fun_OTU.1
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 103.945945945946 which is OK!
+SETTING fun_OTU.4 to be an ERROR of fun_OTU.1
+
+------checking: fun_OTU.3
+####processing: fun_OTU.5 #####
+---hits: fun_OTU.1 
+---hits: fun_OTU.3
+---potential parent: fun_OTU.1 
+---potential parent: fun_OTU.3
+------checking: fun_OTU.1
+------relative cooccurence: 0
+------checking: fun_OTU.3
+------relative cooccurence: 0
+No parent found!

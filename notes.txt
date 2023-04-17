@@ -1,0 +1,9 @@
+# Preferred settings for scripts ####
+SGE_Batch -c 'bash -i code/00-build.sh' -r build-log -P 8 -m 64G -M gerversk@oregonstate.edu
+SGE_Batch -c 'bash -i code/00-update.sh' -r update-log -P 8 -m 64G -M gerversk@oregonstate.edu
+SGE_Batch -c 'bash && conda run -p env/ bash code/01-demultiplex.sh 16' -r demultiplex-log -P 16 -m 256G -M gerversk@oregonstate.edu
+SGE_Batch -c 'bash && conda run -p env/ bash code/02-trim.sh 32' -r trim-log -P 32 -m 256G -M gerversk@oregonstate.edu
+SGE_Batch -c 'bash && conda run -p env/ Rscript code/03-denoise.r 32' -r denoise-log -P 32 -m 256G -M gerversk@oregonstate.edu
+SGE_Batch -c 'bash && conda run -p env/ Rscript code/04-compile.r 16' -r compile-log -P 16 -m 256G -M gerversk@oregonstate.edu
+SGE_Batch -c 'bash && conda run -p env/ Rscript code/04-host.r 16' -r host-log -P 16 -m 256G -M gerversk@oregonstate.edu
+SGE_Batch -c 'bash && conda run -p env/ bash code/03-host.sh 32' -r host-log -P 32 -m 256G -M gerversk@oregonstate.edu

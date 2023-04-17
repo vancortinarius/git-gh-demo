@@ -1,0 +1,2 @@
+primers total correct del.correct in.correct deletions insertions
+Fun 70697 69735 9380 9965 102 14

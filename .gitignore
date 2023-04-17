@@ -1,0 +1,9 @@
+env
+data/raw
+scratch
+01-demultiplex/*.fq.gz
+02-trim/*.fq.gz
+03-denoise/filter
+canopy
+*-log
+.Rproj.user
